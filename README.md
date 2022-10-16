@@ -2,6 +2,7 @@
 A project in The Odin Project to practice using objects and constructor functions. 
 
 Live Site: https://itsaflamingo.github.io/library/
+
 Assignment Instructions: https://www.theodinproject.com/lessons/node-path-javascript-library
 
 Skills used: 
